@@ -18,7 +18,7 @@ sections:
   - section_id: recent-posts
     component: PostsBlock
     type: postsblock
-    title: Recent Posts
+    title: Recent Projects
     num_posts_displayed: 4
     actions:
       - label: View Projects
