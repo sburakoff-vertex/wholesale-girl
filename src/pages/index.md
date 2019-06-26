@@ -11,7 +11,7 @@ sections:
     type: contentblock
     title: About
     content: >-
-      A keen eye for detail and absolutely consistent visual and technical content throughout. All done by hand. Quality delivered. Make the visitor stop and consider you. Every burakoff.com site does that - they can't look away. They spend time, consider your offer and 
+      A keen eye for detail and absolutely consistent visual and technical content throughout. All done by hand. Quality delivered. Make the visitor stop and consider you. Every burakoff.com site does that - they can't look away. They spend time, consider your offer and
     actions:
       - label: Contact Me
         url: contact.html
@@ -21,7 +21,7 @@ sections:
     title: Recent Posts
     num_posts_displayed: 4
     actions:
-      - label: View Blog
+      - label: View Projects
         url: blog/index.html
 menus:
   main:
