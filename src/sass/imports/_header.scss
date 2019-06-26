@@ -324,3 +324,31 @@ section#recent-posts {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
+.stevie {
+    background-color: #000000;
+    opacity: 0.6;
+}
+
+.stevie {
+    -webkit-transition-property: background-color;
+    -moz-transition-property: background-color;
+    transition-property: background-color;
+    -webkit-transition-duration: .3s;
+    -moz-transition-duration: .3s;
+    transition-duration: .3s;
+    transition-timing-function: ease;
+}
+.stevie {
+    bottom: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.stevie {
+    -webkit-transition-timing-function: ease;
+    -moz-transition-timing-function: ease;
+}
