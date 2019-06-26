@@ -5,17 +5,13 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I deliver clean & modern designs. I'm a full stack power developer. All of my sites are super operable, intuitive, &amp; easy. I can create or modify powerful wordpress themes. Every site is fully responsive, built on HTML5, CSS3, PHP, Node.js, and on and on. Hope you dig it.
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      A keen eye for detail and absolutely consistent visual and technical content throughout. All done by hand. Quality delivered. Make the visitor stop and consider you. Every burakoff.com site does that - they can't look away. They spend time, consider your offer and 
     actions:
       - label: Contact Me
         url: contact.html
