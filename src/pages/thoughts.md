@@ -4,7 +4,7 @@ subtitle: Everything you need, nothing you don't. Cutting edge technology used i
 img_path: images/parrot.jpg
 menus:
   main:
-    weight: 6
+    weight: 5
     title: Thoughts
 template: page
 ---
