@@ -1,11 +1,11 @@
----
-title: About
-subtitle: This is a short page of my work today.
-img_path: images/aboutt.jpg
++---
+title: About Me
+subtitle: This is a short page about me and my work.
+img_path: images/about.jpg
 menus:
   main:
-  weight: 4
-  title: About
+    weight: 4
+    title: About
 template: page
 ---
 
