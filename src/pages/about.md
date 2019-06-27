@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Everything you need, nothing you don't. Cutting edge technology used in the right dose. Linux, Apache, MySQL, PHP - masters of that universe!
+subtitle: Everything you need, nothing you don't. Cutting edge technology used in the right dose. Linux, Apache, MySQL, PHP, Git,  - masters of that universe!
 img_path: images/aboutt.jpg
 menus:
   main:
@@ -13,7 +13,8 @@ template: page
 
 I'm expert working with any **back-end** and **front-end** technology. I work with **mySQL**, **PHP**, **HTML**, **CSS**, **JavaScript** and everything in between. If a computer can do it, I can do it! My quality standards apply to service, technical expertise and advice. I'm dedicated and happy to assist you with know-how and experience in your daily business. Software USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
+>Start before you are ready.<cite>Albert Einstein</cite>
 
 As a hobby, Stephen authors the most influential software blog in Boston with over 100,000 page views a month. He lives in Boston with his beautiful wife and two boys.
 
