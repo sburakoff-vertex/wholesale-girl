@@ -3,9 +3,9 @@ title: About
 subtitle: This is a short page of my work today.
 img_path: images/black-friday-casual-cheerful-1391380.jpg
 menus:
-main:
-weight: 4
-title: About
+  main:
+  weight: 4
+  title: About
 template: page
 ---
 
