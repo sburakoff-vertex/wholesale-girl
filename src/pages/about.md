@@ -1,6 +1,6 @@
 ---
-title: About Me
-subtitle: This is a short page about my work.
+title: About
+subtitle: Everything you need, nothing you don't. Cutting edge technology used in the right dose. Linux, Apache, MySQL, PHP - masters of that universe!
 img_path: images/aboutt.jpg
 menus:
   main:
@@ -9,9 +9,9 @@ menus:
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Stephen Burakoff** is a start-of-the-art developer based in [Boston](https://en.wikipedia.org/wiki/Boston), Sweden. After graduating from The University of Pennsylvania with a degree in Computer Science and Electrical Engineering. He has started and sold three software companies, Business Systems Research, Layered, Incorporated, and New River Investor Communications..
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I'm expert working with any **back-end** and **front-end** technology. I work with **mySQL**, **PHP**, **HTML**, **CSS**, **JavaScript** and everything in between. If a computer can do it, I can do it! My quality standards apply to service, technical expertise and advice. I'm dedicated and happy to assist you with know-how and experience in your daily business. Software USA named him a person to watch in 2019.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
