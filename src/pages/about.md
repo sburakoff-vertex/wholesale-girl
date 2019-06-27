@@ -15,6 +15,6 @@ I'm expert working with any **back-end** and **front-end** technology. I work wi
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, Stephen authors the most influential software blog in Boston with over 100,000 page views a month. He lives in Boston with his beautiful wife and two boys.
 
 *Thank You for reading!*
