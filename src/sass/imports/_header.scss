@@ -324,7 +324,13 @@ section#recent-posts {
     margin-left: auto;
     margin-right: auto;
 }
-
+article.post.page.post-full .post-thumbnail {
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -2px 3px 11px rgba(0, 161, 255, .3);
+    border-radius: 7px;
+}
 
 /*
 .stevie {
