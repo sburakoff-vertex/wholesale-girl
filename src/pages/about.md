@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+img_path: images/black-friday-casual-cheerful-1391380.jpg
 menus:
 main:
 weight: 4
