@@ -1,9 +1,7 @@
 ---
 title: Thoughts
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+subtitle: Everything you need, nothing you don't. Cutting edge technology used in the right dose. Linux, Apache, MySQL, PHP, Git,  - masters of that universe!
+img_path: images/aboutt.jpg
 menus:
   main:
     weight: 6
