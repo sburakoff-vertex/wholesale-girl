@@ -6,8 +6,8 @@ excerpt: >-
   We will explore the visual possibilities to achieve the best creative and design
   solutions for your business.
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+thumb_img_path: images/post.pamela-gelbert.jpg
+content_img_path: images/post.pamela-gelbert.jpg
 template: post
 ---
 
