@@ -9,7 +9,7 @@ menus:
 template: page
 ---
 
-**Stephen Burakoff** is a start-of-the-art developer based in [Boston](https://en.wikipedia.org/wiki/Boston), Sweden. After graduating from The University of Pennsylvania with a degree in Computer Science and Electrical Engineering. He has started and sold three software companies, Business Systems Research, Layered, Incorporated, and New River Investor Communications..
+**Stephen Burakoff** is a start-of-the-art developer based in [Boston](https://en.wikipedia.org/wiki/Boston), Massachusetts. After graduating from The University of Pennsylvania with a degree in Computer Science and Electrical Engineering. He has started and sold three software companies, Business Systems Research, Layered, Incorporated, and New River Investor Communications.
 
 I'm expert working with any **back-end** and **front-end** technology. I work with **mySQL**, **PHP**, **HTML**, **CSS**, **JavaScript** and everything in between. If a computer can do it, I can do it! My quality standards apply to service, technical expertise and advice. I'm dedicated and happy to assist you with know-how and experience in your daily business. Software USA named him a person to watch in 2019.
 
