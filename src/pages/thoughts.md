@@ -6,7 +6,7 @@ subtitle: >-
   and styles for your content.
 menus:
   main:
-    weight: 3
+    weight: 6
     title: Thoughts
 template: page
 ---
