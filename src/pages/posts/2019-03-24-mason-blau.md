@@ -5,8 +5,8 @@ excerpt: >-
   clients throughout Florida. They excel in the challenging design environments
   of health care, education, government, and commercial buildings
 date: '2019-03-24'
-thumb_img_path: images/2.jpg
-content_img_path: images/2.jpg
+thumb_img_path: images/post.mason.jpg
+content_img_path: images/post.mason.jpg
 template: post
 ---
 
