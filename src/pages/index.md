@@ -22,7 +22,7 @@ sections:
     num_posts_displayed: 4
     actions:
       - label: More Projects
-        url: blog/index.html
+        url: projects/index.html
 menus:
   main:
     weight: 1
