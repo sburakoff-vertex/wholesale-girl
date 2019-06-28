@@ -209,7 +209,7 @@ models:
     type: page
     label: Blog
     template: blog
-    file: blog/index.md
+    file: projects/index.md
     hideContent: true
     singleInstance: true
     fields:
