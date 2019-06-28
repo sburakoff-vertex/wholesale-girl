@@ -21,7 +21,7 @@ sections:
     title: Recent Projects
     num_posts_displayed: 4
     actions:
-      - label: View Projects
+      - label: More Projects
         url: blog/index.html
 menus:
   main:
