@@ -332,8 +332,8 @@ article.post.page.post-full .post-thumbnail {
     border-radius: 7px;
 }
 .post-feed .post-thumbnail {
-    border-radius: 5px;
-    margin: 8px 0;
+    border-radius: 5px !important;
+    margin: 8px 0 !important;
 }
 .post-feed .post-thumbnail img {
     border-radius: 5px !important;
