@@ -13,7 +13,7 @@ template: page
 
 
 <p class="stevie_headline_person">Patty Manko</p>
-<p><span class="stevie_headline_number">2.</span><span class="stevie_headline">Affirmation</span><span class="stevie_headline_period">.</span></p>
+<p class="steviep"><span class="stevie_headline_number">2.</span><span class="stevie_headline">Affirmation</span><span class="stevie_headline_period">.</span></p>
 
 # This is an H1
 
