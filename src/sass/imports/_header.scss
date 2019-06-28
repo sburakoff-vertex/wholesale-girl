@@ -362,6 +362,23 @@ p.stevie_headline_person {
     line-height: .95em;
     padding-bottom: 10px;
     padding-top: 90px;
+    font-family: 'Lato', sans-serif !important;
+    color: #313131;
+}
+span.stevie_headline_number {
+    font-size: 120px;
+    font-weight: 900;
+    line-height: 123px;
+}
+span.stevie_headline {
+    font-size: 83px;
+    padding: 0 0 0 29px;
+    font-weight: 200;
+    vertical-align: top;
+    line-height: 120px;
+}
+.stevie_headline_period {
+    display: none;
 }
 /*
 .stevie {
