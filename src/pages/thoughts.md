@@ -1,3 +1,7 @@
+
+<p class="stevie_headline_person">Patty Manko</p>
+<p class="steviep"><span class="stevie_headline_number">2.</span><span class="stevie_headline">Affirmation</span><span class="stevie_headline_period">.</span></p>
+
 ---
 title: Thoughts
 subtitle: Everything you need, nothing you don't. Cutting edge technology used in the right dose. Linux, Apache, MySQL, PHP, Git,  - masters of that universe!
