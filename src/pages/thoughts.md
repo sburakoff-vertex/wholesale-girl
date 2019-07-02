@@ -1,4 +1,3 @@
-
 ---
 title: Thoughts
 subtitle: Everything you need, nothing you don't. Cutting edge technology used in the right dose. Linux, Apache, MySQL, PHP, Git,  - masters of that universe!
