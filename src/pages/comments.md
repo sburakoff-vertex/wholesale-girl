@@ -39,6 +39,3 @@ template: page
 <p class="stevie_headline_person">Bob Carney</p>
 <p class="stevie_headline"><a class="comment" href="http://www.questionnairey.com/"><span class="stevie_headline">Questionnairey</span></a><br>
 <span class="stevie_body">Stephen developed 4 different sites for us all based on one site, and before that he did our previous site too. It was a smart way to attack the problem. He was very focused, easy to talk to and really responsive. I use him all the time and will continue.</span><span class="client_date"> Summer 2015</span></p>
-
-<p class="stevie_headline_person">Patty Manko</p>
-<p class="steviep"><span class="stevie_headline_number">2.</span><span class="stevie_headline">Affirmation</span><span class="stevie_headline_period">.</span></p>
