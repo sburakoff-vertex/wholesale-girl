@@ -12,6 +12,95 @@ template: page
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
 
+
+<section class="content-container js-coll-page-section coll-page-section">
+            <div class="row">
+                <div class="large-12 columns">
+                    <div class="coll-section-divider content-divider">
+                        <span class="text large-2 medium-2">05 Jan 2016</span>
+                        <span class="line large-10 medium-10"><span class="color"></span></span>
+                    </div>
+                    <div class="copy-container large-10 large-offset-2 medium-offset-2 medium-10">
+                        <div class="content-wrapper">
+                            <article class="entry-content clearfix">
+                                <p><span class="excerpt">Clients say some great things. Check out a bunch of their comments.  When we’re done you’ll be saying things like this too …….</span></p>
+<p><span id="more-840"></span></p>
+<p class="stevie_headline_person">Todd Finestone</p>
+<p><a href="http://www.ranchroofing.com/" class="stevie_headline">Ranch Roofing</a><br>
+<span class="stevie_body"><span class="quote">“Awesome! Whenever you are free to talk. Good job dude!”</span> We’d drifted for months and the web development people before Stephen weren’t making any progress. Right from the start Stephen clicked with me and we built the site and got it done. He did a great job in tough circumstances.</span><span class="client_date">Winter 2016</span></p>
+<p class="stevie_headline_person">Patty Manko</p>
+<p><a href="http://www.ShepherdFinancialPartners.com/" class="stevie_headline">Shepherd Financial Partners</a><br>
+<span class="stevie_body">We selected Stephen from several developers. He knew what he was talking about and had a good plan to get it done. We had a tight timetable to get the site done – twice! And both times he met the dates. He’s great to work with and has good views on what to do that he explains and then incorporates our feedback. He’s got a great process and we have a great site too.</span><span class="client_date">Winter 2016</span></p>
+<p class="stevie_headline_person">Travis Williams</p>
+<p><a href="https://www.fluence.science/" class="stevie_headline">Fluence</a></p>
+<p><span class="stevie_body">I would like to express my appreciation for your hard work, smarts and dedication to getting our site live. We spent months with other developers and got nowhere. You stepped in, worked with me to establish the final design and ultimately executed until we were up and running.</span><span class="client_date">Winter 2016</span></p>
+<p class="stevie_headline_person">Pat Scanlon</p>
+<p><a href="http://www.shamrockcommunications.com/" class="stevie_headline">Shamrock Communications</a><br>
+<span class="stevie_body">Stephen was great to work with. He listened to what we needed, explained what he was about to do – and then he did it. He took our guidance all the time. It’s a great site and we love it!</span><span class="client_date">Winter 2016</span></p>
+<p class="stevie_headline_person">Loren Mortman</p>
+<p><a href="http://theequitygroup.com/" class="stevie_headline">The Equity Group</a><br>
+<span class="stevie_body">We’ve been working with Stephen for several years now. His design work is top-notch and highly creative, and he is very responsive and attentive to detail.  Stephen is also quite knowledgeable about the inner-workings of the Internet, SEO, etc., which has proven very helpful.</span><span class="client_date">4+ Continuous Years</span></p>
+<p class="stevie_headline_person">Bob Carney</p>
+<p><a href="http://www.questionnairey.com/" class="stevie_headline">Questionnairey</a><br>
+<span class="stevie_body">Stephen developed 4 different sites for us all based on one site, and before that he did our previous site too. It was a smart way to attack the problem. He was very focused, easy to talk to and really responsive. I use him all the time and will continue.</span><span class="client_date"> Summer 2015</span></p>
+
+                            </article>
+                                                        <footer class="coll-post-info">
+                                                                    <div class="categories">
+                                        <span class="caption">Categories </span>
+                                        <span class="list"><a href="https://www.burakoff.com/ideas/category/client-sites/" rel="category tag">Client Sites</a> <a href="https://www.burakoff.com/ideas/category/development/" rel="category tag">Development</a></span>
+                                    </div>
+                                                                                            </footer>
+                            <!--                            comment button-->
+                            <a class="coll-button coll-accent-color leave-comment" href="https://www.burakoff.com/ideas/comments/#comments" target="self">
+                                Leave a comment                            </a>
+                        </div>
+                    </div>
+                    <div class="coll-section-divider more_posts">
+                        <span class="text large-2 medium-2">More Posts</span>
+                        <span class="line large-10 medium-10"><span class="color"></span></span>
+                    </div>
+                    <div class="navigation-container large-10 large-offset-2 medium-offset-2 medium-10">
+                        <div class="row">
+                            <div class="previous large-6 medium-6 columns">
+                                                                    <a class="arrow" href="https://www.burakoff.com/ideas/7-development-steps-to-website-success/">
+                                        <div class="icon"><i class="fa fa-long-arrow-left"></i></div>
+                                        <div class="info">
+                                            <label>Next</label>
+
+                                            <h3 class="title-text">7 Development Steps to Website Success</h3>
+                                        </div>
+
+                                    </a>
+                                                            </div>
+                            <div class="next large-6 medium-6 columns">
+                                                            </div>
+                        </div>
+
+                    </div>
+                    <div id="comments">
+
+                    </div>
+
+                    <div class="coll-section-divider comments">
+                        <span class="text large-2 medium-2">Comments</span>
+                        <span class="line large-10 medium-10"><span class="color"></span></span>
+                    </div>
+                    <div class="comments-container large-10 large-offset-2  medium-offset-2 medium-10">
+
+
+                    <p class="nocomments">Comments are closed.</p>
+
+                    </div>
+
+                </div>
+                <!--                end left-->
+                            </div>
+        </section>
+
+
+
+
 <p class="stevie_headline_person">Patty Manko</p>
 <p class="steviep"><span class="stevie_headline_number">2.</span><span class="stevie_headline">Affirmation</span><span class="stevie_headline_period">.</span></p>
 
