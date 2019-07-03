@@ -41,11 +41,12 @@ hello world
 1. one thing (yeah!)
 2. two thing `i can write code`, and `more` wipee!
 
-
+---
 #To Do
 - [ ] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+---
 
 <div markdown="1" class=foo>Paragraphs here inherit class foo from above.</div>
 
