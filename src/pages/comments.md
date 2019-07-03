@@ -13,17 +13,8 @@ template: page
 
 
 
-<section class="content-container js-coll-page-section coll-page-section">
-            <div class="row">
-                <div class="large-12 columns">
-                    <div class="coll-section-divider content-divider">
-                        <span class="text large-2 medium-2">05 Jan 2016</span>
-                        <span class="line large-10 medium-10"><span class="color"></span></span>
-                    </div>
-                    <div class="copy-container large-10 large-offset-2 medium-offset-2 medium-10">
-                        <div class="content-wrapper">
-                            <article class="entry-content clearfix">
-                                <p><span class="excerpt">Clients say some great things. Check out a bunch of their comments.  When we’re done you’ll be saying things like this too …….</span></p>
+
+<p><span class="excerpt">Clients say some great things. Check out a bunch of their comments.  When we’re done you’ll be saying things like this too …….</span></p>
 <p><span id="more-840"></span></p>
 <p class="stevie_headline_person">Todd Finestone</p>
 <p><a href="http://www.ranchroofing.com/" class="stevie_headline">Ranch Roofing</a><br>
@@ -43,63 +34,6 @@ template: page
 <p class="stevie_headline_person">Bob Carney</p>
 <p><a href="http://www.questionnairey.com/" class="stevie_headline">Questionnairey</a><br>
 <span class="stevie_body">Stephen developed 4 different sites for us all based on one site, and before that he did our previous site too. It was a smart way to attack the problem. He was very focused, easy to talk to and really responsive. I use him all the time and will continue.</span><span class="client_date"> Summer 2015</span></p>
-
-                            </article>
-                                                        <footer class="coll-post-info">
-                                                                    <div class="categories">
-                                        <span class="caption">Categories </span>
-                                        <span class="list"><a href="https://www.burakoff.com/ideas/category/client-sites/" rel="category tag">Client Sites</a> <a href="https://www.burakoff.com/ideas/category/development/" rel="category tag">Development</a></span>
-                                    </div>
-                                                                                            </footer>
-                            <!--                            comment button-->
-                            <a class="coll-button coll-accent-color leave-comment" href="https://www.burakoff.com/ideas/comments/#comments" target="self">
-                                Leave a comment                            </a>
-                        </div>
-                    </div>
-                    <div class="coll-section-divider more_posts">
-                        <span class="text large-2 medium-2">More Posts</span>
-                        <span class="line large-10 medium-10"><span class="color"></span></span>
-                    </div>
-                    <div class="navigation-container large-10 large-offset-2 medium-offset-2 medium-10">
-                        <div class="row">
-                            <div class="previous large-6 medium-6 columns">
-                                                                    <a class="arrow" href="https://www.burakoff.com/ideas/7-development-steps-to-website-success/">
-                                        <div class="icon"><i class="fa fa-long-arrow-left"></i></div>
-                                        <div class="info">
-                                            <label>Next</label>
-
-                                            <h3 class="title-text">7 Development Steps to Website Success</h3>
-                                        </div>
-
-                                    </a>
-                                                            </div>
-                            <div class="next large-6 medium-6 columns">
-                                                            </div>
-                        </div>
-
-                    </div>
-                    <div id="comments">
-
-                    </div>
-
-                    <div class="coll-section-divider comments">
-                        <span class="text large-2 medium-2">Comments</span>
-                        <span class="line large-10 medium-10"><span class="color"></span></span>
-                    </div>
-                    <div class="comments-container large-10 large-offset-2  medium-offset-2 medium-10">
-
-
-                    <p class="nocomments">Comments are closed.</p>
-
-                    </div>
-
-                </div>
-                <!--                end left-->
-                            </div>
-        </section>
-
-
-
 
 <p class="stevie_headline_person">Patty Manko</p>
 <p class="steviep"><span class="stevie_headline_number">2.</span><span class="stevie_headline">Affirmation</span><span class="stevie_headline_period">.</span></p>
