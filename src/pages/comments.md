@@ -14,7 +14,7 @@ template: page
 
 <p class="stevie_headline_person">Patty Manko</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://specialneedsplanning.com/"><span class="stevie_headline">Special Needs Financial Planning</span></a><br>
-<span class="stevie_body">We selected Stephen from several developers. He knew what he was talking about and had a good plan to get it done. We had a tight timetable to get the site done – twice! And both times he met the dates. He’s great to work with and has good views on what to do that he explains and then incorporates our feedback. He’s got a great process and we have a great site too.</span><span class="client_date">4+ Continuous Years</p>
+<span class="stevie_body">We selected Stephen from several developers. He knew what he was talking about and had a good plan to get it done. We had a tight timetable to get the site done – twice! And both times he met the dates. He’s great to work with and has good views on what to do that he explains and then incorporates our feedback. He’s got a great process and we have a great site too.</span><span class="client_date">5+ Continuous Years</p>
 
 <p class="stevie_headline_person">Kelly McColough</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://www.ShepherdFinancialPartners.com/"><span class="stevie_headline">Shepherd Financial Partners</span></a><br>
