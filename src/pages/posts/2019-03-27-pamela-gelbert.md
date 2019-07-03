@@ -23,8 +23,8 @@ template: post
 <div class="row custom-row">
 <div class="col-md-6 col-md-push-6">
 <div class="graphic-block text-left text-center-xs text-center-sm">
-<div class="circle-icon"> <img src="img/cash-study-img/circle-icon.png" alt=""> </div>
-<div class="wow slideInRight" data-wow-offset="1" data-wow-iteration="1"> <img src="img/cash-study-img/caruma/iphone-mobile-screen-.png" alt=""> </div>
+<div class="circle-icon"> <img src="https://www.jdsofttech.com/img/cash-study-img/circle-icon.png" alt=""> </div>
+<div class="wow slideInRight" data-wow-offset="1" data-wow-iteration="1"> <img src="https://www.jdsofttech.com/img/cash-study-img/caruma/iphone-mobile-screen-.png" alt=""> </div>
 </div>
 </div>
 <div class="col-md-6 col-md-pull-6">
@@ -43,13 +43,13 @@ template: post
 <div class="row custom-row">
 <div class="col-md-6">
 <div class="graphic-block text-right text-center-xs text-center-sm">
-<div class="wow slideInLeft" data-wow-offset="1" data-wow-iteration="1"><img src="img/cash-study-img/caruma/ipad-screen.png" alt=""> </div>
+<div class="wow slideInLeft" data-wow-offset="1" data-wow-iteration="1"><img src="https://www.jdsofttech.com/img/cash-study-img/caruma/ipad-screen.png" alt=""> </div>
 </div>
 </div>
 <div class="col-md-6">
 
 <div class="text-block text-left">
-<div class="circle-icon"> <img src="img/cash-study-img/circle-icon.png" alt=""> </div>
+<div class="circle-icon"> <img src="https://www.jdsofttech.com/img/cash-study-img/circle-icon.png" alt=""> </div>
 <h3 class="text-center-xs text-center-sm"> Challenges We Faced </h3>
 <p> Perhaps the most important challenge with this project was delivering top-notch results on a very limited timeframe. In the end, we operated flexibly, creating and uploading the “must-have” elements before moving onto the rest of the site. This approach meant that the original design needed to be integrated into WordPress as a custom theme, and tasked our resources to operate at maximum efficiency, but we did it.</p>
 <p> Another challenge we faced was making sure the website animations were responsive. In the end, the most user-friendly solution was to create mobile-specific sections for certain pages. Complicating this was the fact that we combined a complex HTML design with heavy use of jQuery and put the result through WordPress Page Builder. </p>
@@ -60,8 +60,8 @@ template: post
 <div class="row custom-row">
 <div class="col-md-6 col-md-push-6">
 <div class="graphic-block text-left text-center-xs text-center-sm">
-<div class="circle-icon"> <img src="img/cash-study-img/circle-icon.png" alt=""> </div>
-<div class="wow slideInRight" data-wow-offset="1" data-wow-iteration="1"><img src="img/cash-study-img/caruma/showcase-projects.png" alt=""></div>
+<div class="circle-icon"> <img src="https://www.jdsofttech.com/img/cash-study-img/circle-icon.png" alt=""> </div>
+<div class="wow slideInRight" data-wow-offset="1" data-wow-iteration="1"><img src="https://www.jdsofttech.com/img/cash-study-img/circle-icon.png" alt=""></div>
 </div>
 </div>
 <div class="col-md-6 col-md-pull-6">
@@ -79,13 +79,13 @@ template: post
 <div class="col-md-6">
 <div class="graphic-block text-right">
 
-<div class="wow slideInLeft" data-wow-offset="1" data-wow-iteration="1"><img src="img/cash-study-img/caruma/multi-scre.png" alt=""></div>
+<div class="wow slideInLeft" data-wow-offset="1" data-wow-iteration="1"><img src="https://www.jdsofttech.com/img/cash-study-img/caruma/multi-scre.png" alt=""></div>
 </div>
 </div>
 <div class="col-md-6">
 
 <div class="text-block text-left text-center-xs text-center-sm">
-<div class="circle-icon"> <img src="img/cash-study-img/circle-icon.png" alt=""> </div>
+<div class="circle-icon"> <img src="https://www.jdsofttech.com/img/cash-study-img/circle-icon.png" alt=""> </div>
 <h3 class="text-center-xs text-center-sm"> Feedback </h3>
 <p class="text-left-xs text-left-sm"> Caruma was pleased with the work we performed, especially our rapid response. After several months of non-progress with the previous web designers, we managed to achieve full website functionality in only eight weeks. Caruma even decided to have us manage the website post-launch.</p>
 </div>
