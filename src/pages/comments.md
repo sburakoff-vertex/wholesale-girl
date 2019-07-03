@@ -22,7 +22,7 @@ template: page
 <p class="stevie_headline"><a href="http://www.ShepherdFinancialPartners.com/"><span class="stevie_headline">Shepherd Financial Partners</span></a><br>
 <span class="stevie_body">We selected Stephen from several developers. He knew what he was talking about and had a good plan to get it done. We had a tight timetable to get the site done – twice! And both times he met the dates. He’s great to work with and has good views on what to do that he explains and then incorporates our feedback. He’s got a great process and we have a great site too.</span><span class="client_date">Winter 2016</span></p>
 <p class="stevie_headline_person">Travis Williams</p>
-<p class="stevie_headline"><a href="https://www.fluence.science/" class="stevie_headline">Fluence</a></p>
+<p class="stevie_headline"><a href="https://www.fluence.science/"><span class="stevie_headline">Fluence</span></a></p>
 <p><span class="stevie_body">I would like to express my appreciation for your hard work, smarts and dedication to getting our site live. We spent months with other developers and got nowhere. You stepped in, worked with me to establish the final design and ultimately executed until we were up and running.</span><span class="client_date">Winter 2016</span></p>
 <p class="stevie_headline_person">Pat Scanlon</p>
 <p class="stevie_headline"><a href="http://www.shamrockcommunications.com/"><span class="stevie_headline">Shamrock Communications</span></a><br>
