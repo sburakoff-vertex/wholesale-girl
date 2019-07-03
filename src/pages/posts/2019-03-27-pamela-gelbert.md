@@ -17,51 +17,12 @@ template: post
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
 
-
-# hello world
-
 you can write text [with links](http://example.com) inline or [link references][1].
 
 * one _thing_ has *em*phasis
 * two __things__ are **bold**
 
-[1]: http://example.com
-
----
-
-hello world
-===========
-
-<this_is inline="xml"></this_is>
-
-> markdown is so cool
-
-    so are code segments
-
-1. one thing (yeah!)
-2. two thing `i can write code`, and `more` wipee!
-
----
-#To Do
-- [ ] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
----
-
 <div markdown="1" class=foo>Paragraphs here inherit class foo from above.</div>
-
-My text in an orange box.
-{: .alert .alert-gitlab-orange}
-
-<div class="panel panel-gitlab-orange">
-**Heading**
-{: .panel-heading}
-<div class="panel-body">
-
-Text in markdown.
-
-</div>
-</div>
 
 **Iceland** Stephen was here. Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
 
