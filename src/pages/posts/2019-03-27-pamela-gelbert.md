@@ -1,5 +1,9 @@
 ---
-title: Pamela Gelbert Design
+title: Pamela Gelbert Design Case Study
+subtitle: >-
+  The style guide provides you with a blueprint of default post and page styles.
+  The style guide is also a great reference for suggested typographic treatment
+  and styles for your content.
 excerpt: >-
   Creative/Art Director and Graphic Designer living and working in New York 3
   City. My work is based on a thorough understanding of your needs and challenges.
