@@ -4,7 +4,7 @@ subtitle: Everything you need, nothing you don't. Cutting edge technology used i
 img_path: images/aboutt.jpg
 menus:
   main:
-    weight: 5
+    weight: 6
     title: About
 template: page
 ---

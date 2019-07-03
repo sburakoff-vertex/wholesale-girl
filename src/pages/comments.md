@@ -1,10 +1,10 @@
 ---
-title: Thoughts
+title: Comments
 subtitle: Everything you need, nothing you don't. Cutting edge technology used in the right dose. Linux, Apache, MySQL, PHP, Git,  - masters of that universe!
 img_path: images/parrot.jpg
 menus:
   main:
-    weight: 5
+    weight: 4
     title: Thoughts
 template: page
 ---
