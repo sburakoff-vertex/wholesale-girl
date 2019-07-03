@@ -10,11 +10,11 @@ template: page
 
 <p class="stevie_headline_person">Loren Mortman</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://theequitygroup.com/"><span class="stevie_headline">The Equity Group</span></a><br>
-<span class="stevie_body">We’ve been working with Stephen for several years now. His design work is top-notch and highly creative, and he is very responsive and attentive to detail.  Stephen is also quite knowledgeable about the inner-workings of the Internet, SEO, etc., which has proven very helpful.</span><span class="client_date">4+ Continuous Years</span></p>
+<span class="stevie_body">We’ve been working with Stephen for several years now. His design work is top-notch and highly creative, and he is very responsive and attentive to detail.  Stephen is also quite knowledgeable about the inner-workings of the Internet, SEO, etc., which has proven very helpful.</span><span class="client_date">7+ Continuous Years</span></p>
 
 <p class="stevie_headline_person">Pamela Gelbert</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://pamelagelbertdesign.com/"><span class="stevie_headline">Pamela Gelbert Design</span></a><br>
-<span class="stevie_body"><span class="quote">“Awesome! Whenever you are free to talk. Good job dude!”</span> We’d drifted for months and the web development people before Stephen weren’t making any progress. Right from the start Stephen clicked with me and we built the site and got it done. He did a great job in tough circumstances.</span><span class="client_date">Winter 2016</span></p>
+<span class="stevie_body"><span class="quote">“Awesome! Whenever you are free to talk. Good job dude!”</span> We’d drifted for months and the web development people before Stephen weren’t making any progress. Right from the start Stephen clicked with me and we built the site and got it done. He did a great job in tough circumstances.</span><span class="client_date">Fall 2018</span></p>
 
 <p class="stevie_headline_person">Patty Manko</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://www.ShepherdFinancialPartners.com/"><span class="stevie_headline">Shepherd Financial Partners</span></a><br>
@@ -22,7 +22,11 @@ template: page
 
 <p class="stevie_headline_person">Mitch Endick</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://set3jazz.com/"><span class="stevie_headline">Set3 Jazz</span></a><br>
-<span class="stevie_body"><span class="quote">“Awesome! Whenever you are free to talk. Good job dude!”</span> We’d drifted for months and the web development people before Stephen weren’t making any progress. Right from the start Stephen clicked with me and we built the site and got it done. He did a great job in tough circumstances.</span><span class="client_date">Winter 2016</span></p>
+<span class="stevie_body"><span class="quote">“Awesome! Whenever you are free to talk. Good job dude!”</span> We’d drifted for months and the web development people before Stephen weren’t making any progress. Right from the start Stephen clicked with me and we built the site and got it done. He did a great job in tough circumstances.</span><span class="client_date">Fall 2018</span></p>
+
+<p class="stevie_headline_person">Bill Lynch</p>
+<p class="stevie_headline"><a target="&#95;blank" class="comment" href="http://focalfront.com/"><span class="stevie_headline">Focal Front</span></a><br>
+<span class="stevie_body"><span class="quote">“We're a new firm and we needed to communicate the depth of our technology and approach. Stephen made an impressive comprehensive site for us. No hassles, all easy, peasy. When we're ready to expand our site - I'll call Stephen again, for sure.</span><span class="client_date">Fall 2018</span></p>
 
 <p class="stevie_headline_person">Todd Finestone</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://www.ranchroofing.com/"><span class="stevie_headline">Ranch Roofing</span></a><br>
