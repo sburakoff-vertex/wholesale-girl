@@ -18,7 +18,7 @@ template: page
 
 <p class="stevie_headline_person">Kelly McColough</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://www.ShepherdFinancialPartners.com/"><span class="stevie_headline">Shepherd Financial Partners</span></a><br>
-<span class="stevie_body"><span class="quote">&#8220;We selected Stephen from several developers. He knew what he was talking about and had a good plan to get it done. We had a tight timetable to get the site done – twice! And both times he met the dates. He’s great to work with and has good views on what to do that he explains and then incorporates our feedback. He’s got a great process and we have a great site too.</span><span class="client_date">4+ Continuous Years</span></p>
+<span class="stevie_body"><span class="quote">&#8220;Stephen developed and maintained our site for a number of years before I became responsible for the site. He's easy to work with, really through, and is very responsive. He's got good ideas and contributes often. Look forward to many more years too.</span><span class="client_date">4+ Continuous Years</span></p>
 
 <p class="stevie_headline_person">Pamela Gelbert</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="https://pamelagelbertdesign.com/"><span class="stevie_headline">Pamela Gelbert Design</span></a><br>
