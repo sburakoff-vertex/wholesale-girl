@@ -13,10 +13,6 @@ content_img_path: images/post.pamela-gelbert.jpg
 template: post
 ---
 
-
-
-
-
 <section class="common-section cash-study-content">
 <div class="container-fluid">
 <div class="line-img">
@@ -36,7 +32,6 @@ template: post
 <p class="text-left-xs text-left-sm"> With a working HTML site up, we were ready to begin working on the e-commerce portion of the site. The main issue here was that the product was not ready for delivery, and would not be for more than half a year. </p>
 <p class="text-left-xs text-left-sm"> As a result, our e-commerce solution needed to focus on pre-orders. Although there was a tentative desire to collect payment right away, in the end it was decided that payment will be collected once the product is ready to start shipping. </p>
 <p class="text-left-xs text-left-sm"> The site, replete with cutting edge jQuery work on the front-end, was now ready to go live and give Caruma the professional presentation it needs to succeed.  </p></div>
-
 </div>
 
 </div>
@@ -47,7 +42,6 @@ template: post
 </div>
 </div>
 <div class="col-md-6">
-
 <div class="text-block text-left">
 <div class="circle-icon"> <img src="https://www.jdsofttech.com/img/cash-study-img/circle-icon.png" alt=""> </div>
 <h3 class="text-center-xs text-center-sm"> Challenges We Faced </h3>
