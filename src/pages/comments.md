@@ -41,8 +41,8 @@ template: page
 <span class="stevie_body"><span class="quote">&#8220;I would like to express my appreciation for your hard work, smarts and dedication to getting our site live. We spent months with other developers and got nowhere. You stepped in, worked with me to establish the final design and ultimately executed until we were up and running.</span><span class="client_date">Winter 2016</span></p>
 
 <p class="stevie_headline_person">Pat Scanlon</p>
-<p class="stevie_headline"><span class="quote">&#8220;<a target="&#95;blank" class="comment" href="http://www.shamrockcommunications.com/"><span class="stevie_headline">Shamrock Communications</span></a><br>
-<span class="stevie_body">Stephen was great to work with. He listened to what we needed, explained what he was about to do – and then he did it. He took our guidance all the time. It’s a great site and we love it!</span><span class="client_date">Winter 2016</span></p>
+<p class="stevie_headline"><a target="&#95;blank" class="comment" href="http://www.shamrockcommunications.com/"><span class="stevie_headline">Shamrock Communications</span></a><br>
+<span class="stevie_body"><span class="quote">&#8220;Stephen was great to work with. He listened to what we needed, explained what he was about to do – and then he did it. He took our guidance all the time. It’s a great site and we love it!</span><span class="client_date">Winter 2016</span></p>
 
 <p class="stevie_headline_person">Bob Carney</p>
 <p class="stevie_headline"><a target="&#95;blank" class="comment" href="http://www.questionnairey.com/"><span class="stevie_headline">Questionnairey</span></a><br>
