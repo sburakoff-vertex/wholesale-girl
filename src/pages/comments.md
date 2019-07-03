@@ -5,7 +5,7 @@ img_path: images/parrot.jpg
 menus:
   main:
     weight: 4
-    title: Thoughts
+    title: Comments
 template: page
 ---
 
