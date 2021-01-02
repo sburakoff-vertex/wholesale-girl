@@ -5,7 +5,7 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      I deliver clean & modern designs and I'm a full stack power developer. All of my sites are super operable, intuitive, &amp; easy. I can create or modify powerful wordpress themes. Every site is fully responsive, built on HTML5, CSS3, PHP, Node.js, and on and on. Hope you dig it.
+      I deliver clean & modern designs and I'm a full stack power developer. All of my sites are super operable, intuitive, &amp; easy. I can create or modify powerful WordPress themes. Every site is fully responsive, built on HTML5, CSS3, PHP, Node.js, and on and on. Hope you dig it.
   - section_id: about
     component: ContentBlock
     type: contentblock
