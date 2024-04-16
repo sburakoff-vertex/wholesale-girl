@@ -16,6 +16,6 @@ I'm expert working with any **back-end** and **front-end** technology. I work wi
 
 >Start before you are ready.<cite>Albert Einstein</cite>
 
-As a hobby, Stephen authors the most influential software blog in Boston with over 100,000 page views a month. He lives in Boston with his beautiful wife and two boys.
+As a hobby, Stephen authors the most influential software blog in Boston with over 100,000 page views a month. He lives in Boston with his beautiful wife and two boys and dog Bunny.
 
 *Thank You for reading!!*
